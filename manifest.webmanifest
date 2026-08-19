@@ -1,0 +1,9 @@
+{
+  "name": "発注管理",
+  "short_name": "発注管理",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f8",
+  "theme_color": "#0b2b4b",
+  "icons": []
+}
